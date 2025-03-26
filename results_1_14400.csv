@@ -1,0 +1,4 @@
+Simulation #,Avg Queue Length A,Avg Fuel Wait A,Avg Queue Length B,Avg Fuel Wait B,Clerk Utilization,Pump B Max Queue,Avg Invoice Wait,Pump A Max Queue,Pump B Utilization,Avg Stay Time B,Avg Stay Time A,Avg Invoice Queue Length,Final Queue B,Final Queue A,Final Invoice Queue,Pump A Utilization
+1,13.45,59.12,0.11,3.78,16.40,3.00,0.30,34.00,29.90,7.21,68.16,0.06,0.00,0.00,0.00,97.86
+Average,13.45,59.12,0.11,3.78,16.40,3.00,0.30,34.00,29.90,7.21,68.16,0.06,0.00,0.00,0.00,97.86
+Std Dev,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
